@@ -1,0 +1,2 @@
+module compositepattern {
+}
